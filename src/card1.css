@@ -1,0 +1,24 @@
+.jumbotron1{
+    /* background-color: #00ccb1 !important; */
+    margin: 15%;
+    width: 30rem;
+    height: 25rem;
+    border-radius: 15px;
+    overflow: hidden;
+   
+}
+
+.imgs{
+margin-left: 10rem;
+width: 35rem;
+height:15rem;
+}
+
+.span{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.486);
+}
+.info{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}

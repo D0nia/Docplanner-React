@@ -1,0 +1,15 @@
+.cards{
+    /* display: block; */
+    width: fit-content;
+    height: 15rem;
+    background-color: rgba(255, 255, 255, 0.808);
+    border-radius: 15px;
+}
+.title1{
+    color: #00ccb1 ;
+    font-size: 25px;
+}
+.info1{
+    color: rgb(134, 134, 134) ;
+    font-size: 15px;
+}
