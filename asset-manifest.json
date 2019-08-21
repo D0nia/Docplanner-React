@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Docplanner-React/static/css/main.8869af21.chunk.css",
+    "main.js": "/Docplanner-React/static/js/main.ba6f69de.chunk.js",
+    "main.js.map": "/Docplanner-React/static/js/main.ba6f69de.chunk.js.map",
+    "runtime~main.js": "/Docplanner-React/static/js/runtime~main.6e619eb0.js",
+    "runtime~main.js.map": "/Docplanner-React/static/js/runtime~main.6e619eb0.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Docplanner-React/static/css/2.266e55a5.chunk.css",
+    "static/js/2.de8c8c93.chunk.js": "/Docplanner-React/static/js/2.de8c8c93.chunk.js",
+    "static/js/2.de8c8c93.chunk.js.map": "/Docplanner-React/static/js/2.de8c8c93.chunk.js.map",
+    "index.html": "/Docplanner-React/index.html",
+    "precache-manifest.2acd1819e3974b3244d9ce37a9b6b63b.js": "/Docplanner-React/precache-manifest.2acd1819e3974b3244d9ce37a9b6b63b.js",
+    "service-worker.js": "/Docplanner-React/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Docplanner-React/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.8869af21.chunk.css.map": "/Docplanner-React/static/css/main.8869af21.chunk.css.map",
+    "static/media/barcelona.png": "/Docplanner-React/static/media/barcelona.152f007c.png",
+    "static/media/curitiba.png": "/Docplanner-React/static/media/curitiba.a9ff15a2.png",
+    "static/media/img1.png": "/Docplanner-React/static/media/img1.82d323de.png",
+    "static/media/img2.png": "/Docplanner-React/static/media/img2.120076c7.png",
+    "static/media/istanbul.png": "/Docplanner-React/static/media/istanbul.40d37725.png",
+    "static/media/mexico.png": "/Docplanner-React/static/media/mexico.47ca4c93.png",
+    "static/media/rome.png": "/Docplanner-React/static/media/rome.4617f89b.png",
+    "static/media/warsaw.png": "/Docplanner-React/static/media/warsaw.9d829d85.png"
+  }
+}
